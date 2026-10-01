@@ -1,9 +1,7 @@
 # Zhoba: Kitaphana
 TITLE = "Kitaphana"
-VERSION = "1.1-B"
-
+VERSION = "1.1-A"
 def main():
-    print("Salem! ", TITLE, VERSION)
-
+    print("Kosh keldiniz:", TITLE, VERSION)
 if __name__ == "__main__":
     main()
