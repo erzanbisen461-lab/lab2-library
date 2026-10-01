@@ -1,13 +1,9 @@
 # Zhoba: Kitaphana
-TITLE = "Kitaphana"
-<<<<<<< HEAD
-VERSION = "1.1-A"
-=======
-VERSION = "1.1-B"
+TITLE = "Kitaphana (A+B)"
+VERSION = "2.0"
 
->>>>>>> feature-b
 def main():
-    print("Salem!:", TITLE, VERSION)
+    print("Kosh keldiniz:", TITLE, VERSION)
 
 if __name__ == "__main__":
     main()
